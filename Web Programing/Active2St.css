@@ -1,0 +1,88 @@
+body{
+    background-color: rgb(219, 191, 178);
+}
+.Croissants{
+    color: rgb(188, 76, 32);
+    margin-left: 34%;
+    padding-bottom: -0px;
+   
+    position: relative;
+    top: 37px;
+    border-bottom: 1px solid;
+    width: 460px;
+}
+.cookkk{
+    margin-left: 37%;
+    font-size: 12px;
+    position: relative;
+    top: 68px;
+    right: 70px;
+    
+    
+}
+.Normal{
+    margin-left: 37%;
+    font-size: 12px;
+    position: relative;
+    top: 38px;
+    right: -140px;
+    
+    
+}
+.img1{
+    
+    margin-top: -92px;
+    padding-bottom: 15px;
+    
+    
+}
+.Ingredients{
+  font-weight:1000;
+  color: rgb(0, 0, 0);
+  position: relative;
+  
+}
+.frangipane{
+    border-top:2px solid  ;
+    padding-top: 10px;
+}
+div{
+    width: 500px;
+}
+.time{
+    position: relative;
+    left: 506px;
+    bottom: 218px;
+   width: 30px;
+   margin-bottom: 12%;
+   
+}
+.hat{
+    width: 26px;
+    position: relative;
+    left: 630px;
+    bottom: 220px;
+    margin-bottom: 12%
+
+    
+}
+.Method{
+  
+    width: 800px;
+    position: relative;
+    left: 600px;
+    top: -970px;
+}
+.img1x{
+   
+    width: 100%;
+    border-bottom:2px solid rgb(158, 118, 92) ;
+}
+.IN{
+    position: relative;
+    top: -200px;
+   
+}
+.one{
+    font-size: 30px;
+}

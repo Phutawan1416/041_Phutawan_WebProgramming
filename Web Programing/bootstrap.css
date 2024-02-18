@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Salsa&display=swap');
+body{
+    font-family: 'Salsa', cursive ; 
+    background-color: rgb(255, 255, 255);
+   
+}
+.Penquin{
+    border-radius: 3px;
+}
+.navbar-brand{
+   color: #04e6ff;
+  
+}
+.img-fluid{
+   
+    
+    
+}
+.col{
+    background-color: rgb(125, 229, 234);
+}
+.imgdesktop{
+    width: 130px;
+    height:130px ;
+    padding: 10px;
+    position: relative;
+    left: 35%;
+}
+.gov{
+    width: 130px;
+    height:130px ;
+    position: relative;
+    left: 35%;
+    padding: 10px;
+}
+
+.school{
+    width: 130px;
+    height:130px ;
+    position: relative;
+    left: 35%;
+    padding: 10px;
+}
+
+
+.IMGmm{
+    
+    
+}
+.Lor{
+    
+    margin-bottom: 5%;
+}
+.Category{
+    position: relative;
+    right: 70px;
+}
+.sc{
+    position: relative;
+    right: 60px;
+}
+
+
+
+

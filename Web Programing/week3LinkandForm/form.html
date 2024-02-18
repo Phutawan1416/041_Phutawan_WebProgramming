@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form</title>
+</head>
+<body>
+    <h1>Form Element</h1>
+    <form action="https://example.com/" method="post"> 
+         <label for="Username">Username : </label>
+        <input type="text" name="Username"   size="10" />
+        <br />
+        <br>
+    
+        <label for="Username">Password : </label>
+        <input type="password" name="password"   size="10" />
+    
+        <br>
+        <br />
+        <label for="email">email : </label>
+        <input type="email" name="email"  size="30"/>
+        <br/>
+        
+        <br />
+        <label for="address">Address :</label>
+        <textarea name=""  cols="30" rows="10">
+            Lorem ipsum dolor sit amet consectetur adipisicing elit.
+            ihil, labore odio deleniti
+             voluptates delectus neque, a iste modi 
+            eius architecto omnis error exercitationem eum est dolorum laborum 
+            doloremque magnam numquam.
+        </textarea>
+        <br>
+        <br>
+
+        <label for="gender">gender :</label>
+        <input type="radio" name="gender" value="1"> Male
+        <input type="radio" name="gender"value="2"> Female
+        <br>
+        <br>
+        <label for="Source">Source :</label>
+        <input type="checkbox" name="Friend" > Friend
+        <input type="checkbox" name="Internet"> Internet
+        <input type="checkbox" name="Radio"> Radio
+        <br>
+        <label for="department">Department :</label>
+        <select name="device" >
+        <option value="1">IT</option>
+        <option value="2">Chemistry</option>
+        <option value="3">Engineer</option>
+        <option value="4">Environment</option>
+
+        <br>
+        
+        
+    </select>
+       <br>
+       <label for="profilepic">Upload File :</label>
+       <input type="file" name="profilepic" id="">
+        <br>
+        <br>
+        <input type="submit" value="ลงทะเบียน"/>
+        <input type="reset" value="ยกเลิก">
+        <br>
+        <br>
+        <label for="Bd">Birthday :</label>
+
+        <input type="date" >
+    </form>
+  
+</body>
+</html>
